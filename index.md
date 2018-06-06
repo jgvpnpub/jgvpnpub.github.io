@@ -4,7 +4,7 @@
 ### 官网最新地址
 [https://www.jiguangjs.com/index](https://www.jiguangjs.com/index)
 ### google play
-[点击下载]（https://play.google.com/store/apps/details?id=com.isk.first.accelerator）
+[点击下载](https://play.google.com/store/apps/details?id=com.isk.first.accelerator)
 
 ### 直接下载地址
 
