@@ -9,6 +9,9 @@
 ### 直接下载地址
 
 IOS客户端:[立即下载](https://www.jiguangjs.com/company/1.html)
+
 安卓客户端：[立即下载](https://www.jiguangjs.com/resource/moren_jg.apk)
+
 Windows 客户端：[立即下载](https://www.jiguangjs.com/resource/jiguang_setup.exe)
+
 Mac 客户端：[立即下载](https://www.jiguangjs.com/resource/jiguang_setup.dmg)
