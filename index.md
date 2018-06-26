@@ -2,7 +2,7 @@
 ## 请收藏此地址
 
 ### 官网最新地址
-[https://www.jiguangjs.com/index](http://www.jgjs1.com/)
+[http://www.jgjs1.com/](http://www.jgjs1.com/)
 ### google play
 [点击下载](https://play.google.com/store/apps/details?id=com.isk.first.accelerator)
 
